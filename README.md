@@ -1,4 +1,4 @@
-# Popular-Machine-Learning-Methods-and-Algorithms
+# Machine-Learning-Methods-and-Algorithms
 
 Resources for the course can be found at the following links
 - [Course Website (For Course Description, Logistics, Schedule, and Policy)](https://sites.google.com/view/2023cs155/home)
